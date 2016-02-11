@@ -1,0 +1,29 @@
+_repo: Normandy_47813
+contributor:
+  illustrator:
+    agent_name: Jungman, Nico
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '26664'
+    url: http://www.gutenberg.org/2009/agents/26664
+    wikipedia: https://en.wikipedia.org/wiki/Nico_Jungmann
+creator:
+  author:
+    agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+description: ''
+gutenberg_issued: '2014-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Normandy
+url: http://www.gutenberg.org/ebooks/47813
