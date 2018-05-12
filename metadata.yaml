@@ -1,4 +1,5 @@
 _repo: Normandy_47813
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Jungman, Nico
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '26664'
     url: http://www.gutenberg.org/2009/agents/26664
     wikipedia: https://en.wikipedia.org/wiki/Nico_Jungmann
+covers:
+- cover_type: archival
+  image_path: 47813-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitton, G. E. (Geraldine Edith)
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9224
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47813#Normandy
 gutenberg_issued: '2014-12-29'
 gutenberg_type: Text
 identifiers:
